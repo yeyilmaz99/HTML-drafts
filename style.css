@@ -1,0 +1,19 @@
+body{
+    background-color: #e5e5e5;
+}
+h1{ background-color: #a0a0a0;
+text-align: center;
+margin-top: 20px}
+article{
+    border: 1px solid;
+padding-right: 40px;
+    padding-left: 40px;
+    margin-bottom: 200px;
+}
+h2{text-align: center;
+}
+form{text-align: center}
+label{margin-right: 20px;}
+footer{ margin-top: 600px;
+    border: 1px solid;
+}
